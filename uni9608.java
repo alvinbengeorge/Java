@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 public class uni9608 extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         clear();
         Scanner sc=new Scanner(System.in);

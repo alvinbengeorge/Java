@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 public class double_dimension_adder extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the no. of rows and column");

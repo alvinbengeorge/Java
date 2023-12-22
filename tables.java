@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class tables extends qwertyuiop
 {
     public static void main(String args[])

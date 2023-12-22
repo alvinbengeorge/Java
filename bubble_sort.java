@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 public class bubble_sort extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         clear();
         Scanner sc=new Scanner(System.in);

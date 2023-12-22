@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 public class prime_number extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a number: ");

@@ -1,6 +1,6 @@
 public class animation extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         int a=741,b=742,c=743,d=744,e=745,g=0;
         char f;

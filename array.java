@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 public class array extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter 10 numbers: ");

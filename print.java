@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class print extends qwertyuiop
 {           
     public static void palindrome()

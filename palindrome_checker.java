@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class palindrome_checker
 {
     public static void sleep(int time)
@@ -22,7 +22,7 @@ public class palindrome_checker
         else 
         System.out.println("Not palindrome");
     }
-    public static void main()
+    public static void main(String args[])
     {
         System.out.println("\u000C");
         Scanner sc=new Scanner(System.in);

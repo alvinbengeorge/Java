@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 public class vowel extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("\u000C");

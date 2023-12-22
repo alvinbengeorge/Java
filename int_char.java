@@ -1,6 +1,6 @@
 public class int_char extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         for(int i=8600;i<=12000;i++)
         {

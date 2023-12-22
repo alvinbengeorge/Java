@@ -1,6 +1,6 @@
 public class stopwatch extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         int h=0;
         int m=0;

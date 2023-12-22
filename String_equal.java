@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public  class String_equal extends qwertyuiop
 {
     public static void main(String args[])

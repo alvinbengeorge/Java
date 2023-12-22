@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 public class factors extends qwertyuiop
 {
-    public static void main()
+    public static void main(String args[])
     {
         System.out.println("\u000C");
         Scanner sc=new Scanner(System.in);

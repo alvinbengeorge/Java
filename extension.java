@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class extension
 {    
     public static void sleep(int time)
@@ -248,7 +248,7 @@ public class extension
         int a=sc.nextInt();
         palindrome(a);
     }
-    public static void main()
+    public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
         for(int i=1;i<3;)
