@@ -1,10 +1,9 @@
-import java.util.*;
 public class qwertyuiop1
 {   
     public static void finder(String a,char b)
     {
         int l=a.length();
-        a=a.toLowerCase();int c=0;
+        a=a.toLowerCase();
         for(int i=0;i<l;i++)
         {
             char d=a.charAt(i);
@@ -15,7 +14,7 @@ public class qwertyuiop1
     }
     public static void words(String a)
     {
-        String b="";char d;       
+        char d;       
         int l=a.length();
         for(int i=0;i<l;i++)
         {
@@ -186,7 +185,7 @@ public class qwertyuiop1
     } 
     public static void hdivide(int a,int b)
     {
-        int c=0,d=0,e=0;
+        int d=0,e=0;
         d=a/b;
         e=a%b;        
         System.out.print(d+".");
@@ -204,7 +203,7 @@ public class qwertyuiop1
     }
     public static void h_divide(int a,int b)
     {
-        int c=0,d=0,e=0;
+        int c=0,d=0;
         for(int i=0;i<3;)
         {
             sleep(200);
